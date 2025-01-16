@@ -1,4 +1,3 @@
- ```md
 # 🌤️ Weather App  
 
 This is a **simple Weather Application** that shows the **current weather conditions** for a given location.  
